@@ -2,9 +2,9 @@
 Game Belajar Huruf dan Angka untuk ponsel Android
 Game ini dibuat untuk media belajar pada masa pandemi covid-19
 
-Nama : Novi Sujiaryati, S.Pd.SD
-Unit kerja : SDN Satu Atap 2 Dongko
-NIP. 196212101992011001
+- Nama : Novi Sujiaryati, S.Pd.SD
+- - Unit kerja : SDN Satu Atap 2 Dongko
+- - NIP. 196212101992011001
 
 Cara Instalasi :
 - download file diatas ( Belajar Huruf dan Angka 1.0.apk )
