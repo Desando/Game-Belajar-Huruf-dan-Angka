@@ -7,7 +7,7 @@ Unit kerja : SDN Satu Atap 2 Dongko
 NIP. 196212101992011001
 
 Cara Instalasi :
-- download file diatas
+- download file diatas ( Belajar Huruf dan Angka 1.0.apk )
 - buka file kemudian instal
 - pilih ijinkan aplikasi untuk diinstal
 
